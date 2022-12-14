@@ -31,17 +31,18 @@ Keep in mind that internal recruiters move from company to company so you may en
 
 ### Use the online tools
 
-There are a number of online tools for the job search. The traditional www.monster.ca,  www.hotjobs.ca, and www.workopolis.com are great sites. Specifically with Monster, make sure you update your resume at least once a week. Thanks to Ken and Inna for this tip.
+There are a number of online tools for the job search. The traditional www.monster.ca and www.workopolis.com are still good sites. Specifically with Monster, make sure you update your resume at least once a week. Thanks to Ken and Inna for this tip.
 
-The best tool I have found in 2012 was www.indeed.com which provides aggregated searching across job sites as well as corporate career pages. This site had a great filtering capability along the left hand side. You can search by company, job type (contract, full time), and location. You can also setup alerts for a number of searches to save you time. This way you receive an email each day with a list of the new positions that were found.
+The best tool I found back in 2012 was www.indeed.com which provides aggregated searching across job sites as well as corporate career pages. This site had a great filtering capability along the left hand side. You can search by company, job type (contract, full time), and location. You can also setup alerts for a number of searches to save you time. This way you receive an email each day with a list of the new positions that were found. Another site similar to this is www.eluta.com but I found it to have less features.
 
-Another site similar to this is www.eluta.com but I found it to have less features.
+In 2022, there are a bunch of newer sites like www.ziprecruiter.com and ca.talent.com or if you want to do some consulting, check out a site like upwork.com.
 
 ### Practice your interview answers
 
 There are a ton of resources online where you can obtain a list of typical interview questions and styles. Compile a list of these questions and write up your answers to each of them.
 
-For behavioral interviews, make sure you can answer all of the behavioural questions with a specific situation in your work history, what specific action you took, and what the outcome was. 
+For behavioral interviews, make sure you can answer all of the behavioural questions with a specific situation in your work history, what specific action you took, and what the outcome was.
+
 Coming up with this list of questions and answers will take a while but it is well worth the time spent especially if you have a bad memory like me.
 
 #### What is your weakness?
