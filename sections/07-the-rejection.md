@@ -1,3 +1,5 @@
+## The Rejection
+
 ### Take “No” for an answer
 
 If you are declined for a position, it's perfectly okay to ask what skills and experience you were missing but you should not necessarily expect a response. 

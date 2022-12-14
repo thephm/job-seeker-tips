@@ -1,3 +1,5 @@
+## Introduction
+
 This document is the result of some notes that I have taken over the years as a hiring manager and as a job seeker. All of my examples are generalized so that nothing confidential is shared.
 
 I do not profess to be an expert hiring manager nor an excellent job seeker. These are just my experiences, opinions, and some lessons learned. Hopefully you’ll find a few tips that help you in your job search.

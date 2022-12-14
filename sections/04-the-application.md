@@ -1,6 +1,10 @@
+## The Application
+
+OK, you've found an organization that you're interested in, you see or heard that they're hiring, any you're keen to apply.
+
 ### The “cover letter”
 
-If you are submitting a resume by e-mail, include a brief and well-written cover letter in the body of the e-mail instead of a separate Word attachment. Try not to do a cut and paste of some other cover letter. Highlight the key accomplishments relative to the position that you are applying for. Spend the time to ensure that you address the job-specific requirements that are not covered by your resume.
+If you are submitting a resume by e-mail, include a brief and well-written "cover letter" a.k.a intro in the body of the e-mail instead of a separate Word attachment. Try not to do a cut and paste of some other cover letter. Highlight the key accomplishments relative to the position that you are applying for. Spend the time to ensure that you address the job-specific requirements that are not covered by your resume.
 
 ### Only apply for the job if you are qualified
 

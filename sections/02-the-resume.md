@@ -1,6 +1,8 @@
+## The Resume
+
 Your resume is a reflection of you and you need to be comfortable with it. Take advice from others but remember that it is your resume. So, now here’s my advice!
 
-Some general tips:
+### Some general tips
 
 - Keep the resume relatively short. It should be 2 or 3 pages in length
 - Make your resume easy to read and pleasing to look at. If it's cluttered and hard to read it gives the impression that you cannot communicate effectively. Include white space to make it more pleasing to read.
@@ -11,20 +13,21 @@ Some general tips:
 - Name your resume file as follows: firstname_lastname.doc and not "resume.doc" or "firstname.doc". For example “Bernie Jansen.doc”
 - Be careful in the use of “I have knowledge of” since it usually means that you have no experience but you realize that it is important. If this is the case, it probably doesn't belong on your resume.
 
-The first page is the most important
+### The first page is the most important
+
 The first page is the most important so make sure it grabs the reader’s attention. Include a tag-line at the top of the resume that summarizes your unique selling points. Sometimes this is called your personal brand statement. Customize this for each position that you apply to since it’s the first thing the hiring manager reads.
 
-## Ask for help
+### Ask for help
 
 Ask friends or ex-colleagues that are successful at getting jobs for copies of their resumes and then pick the best features of each. Also, ask someone who has hired people to review your resume.
 
 There are a number of companies that provide resume writing services. A friend highly recommends this person: www.aneliteresume.com as a resume writer and he attended one of his workshops. He had “the best advice of any I've seen including the expensive outplacement firms” that large organizations use.
 
-## Check the change tracking
+### Check the change tracking
 
 Do not send a resume with comments in it or Microsoft Word’s change tracking and  revision history. Make sure to use Tools / Track changes and then “Accept all changes in document” before sending it out! Here is an example of a resume of someone who forgot to do this. When I opened it I saw someone’s comment “Grammar mistakes are not acceptable”! 
 
-## Functional resumes rarely work
+### Functional resumes rarely work
 
 Providing a list of technical skills and a list of companies where you worked with no linkage between the two makes the resume reviewer guess. This can be very frustrating and you don’t want people guessing.
 
