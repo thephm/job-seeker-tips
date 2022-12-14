@@ -6,7 +6,7 @@ A collection of tips on finding a job. Nothing more, nothing less. Open to comme
 
 ## Sections
 
-1. [Introduction]("sections/1 - Introduction.md")
+1. [Introduction]("sections/1-introduction.md")
 2. [The Resume]("sections/2 - The Resume.md")
 3. [The Search]("sections/3 - The Search.md")
 4. [The Application]("sections/4 - The Application.md")
