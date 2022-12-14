@@ -62,4 +62,4 @@ Many people think they cannot do this because they don’t have a network. Every
 
 ---
 
-Back: [The Resume](2-the-resume.md) | Next:[The Application](03-the-application.md)
+Back: [The Resume](02-the-resume.md) | Next: [The Application](04-the-application.md)

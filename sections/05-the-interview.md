@@ -54,4 +54,4 @@ Often the interviewer will let you know what the next steps are. If not, just as
 
 ---
 
-Previous: [The Interview](05-the-interview.md) | Next: [The Waiting Game](06-the-waiting-game.md)
+Previous: [The Application](04-the-application.md) | Next: [The Waiting Game](06-the-waiting-game.md)

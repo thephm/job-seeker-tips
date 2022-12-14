@@ -66,4 +66,4 @@ Ensuring all changes are accepted and change tracking is turned off if you use M
 
 ---
 
-Previous: [The Offer](07-the-offer.md) | Next: [Example Interview Questions](10-example-interview-questions.md)
+Previous: [The Offer](08-the-offer.md) | Next: [Example Interview Questions](10-example-interview-questions.md)
