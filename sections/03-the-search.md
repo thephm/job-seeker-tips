@@ -35,7 +35,7 @@ There are a number of online tools for the job search. The traditional www.monst
 
 The best tool I found back in 2012 was www.indeed.com which provides aggregated searching across job sites as well as corporate career pages. This site had a great filtering capability along the left hand side. You can search by company, job type (contract, full time), and location. You can also setup alerts for a number of searches to save you time. This way you receive an email each day with a list of the new positions that were found. Another site similar to this is www.eluta.com but I found it to have less features.
 
-In 2022, there are a bunch of newer sites like www.ziprecruiter.com and ca.talent.com or if you want to do some consulting, check out a site like upwork.com.
+In 2022, there are a bunch of newer sites like www.ziprecruiter.com and ca.talent.com or if you want to do some consulting, check out a site like www.upwork.com.
 
 ### Practice your interview answers
 
