@@ -40,4 +40,4 @@ This example is not the norm but it does show that follow-up can pay off. Keep i
 
 ---
 
-Previous: [The Interview](sections/05-the-interview.md) | Next: [The Rejection](sections/06-the-rejection.md)
+Previous: [The Interview](05-the-interview.md) | Next: [The Rejection](06-the-rejection.md)

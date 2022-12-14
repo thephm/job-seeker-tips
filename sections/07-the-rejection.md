@@ -12,4 +12,4 @@ Many times when you apply to a position, the external or internal recruiter, the
 
 ---
 
-Previous: [The Waiting Game](06-the-waiting-game.md) | Next: [The Offer](07-the-offer.md)
+Previous: [The Waiting Game](06-the-waiting-game.md) | Next: [The Offer](08-the-offer.md)

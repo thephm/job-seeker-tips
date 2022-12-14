@@ -70,4 +70,4 @@ Never bad mouth a previous employer, manager, co-worker regardless of how you ex
 
 ---
 
-Previous: [The Application](03-the-application.md) | Next:[The Interview](05-the-interview.md)
+Previous: [The Application](03-the-application.md) | Next: [The Interview](05-the-interview.md)
