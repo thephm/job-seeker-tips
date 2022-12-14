@@ -1,4 +1,4 @@
-# job-seeker-tips
+# Job Seeker Tips
 
 ## Intro
 
