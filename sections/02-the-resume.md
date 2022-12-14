@@ -48,4 +48,4 @@ Make sure that you can answer a question about any item on your resume or on any
 
 ---
 
-Back: [Introduction](1-introduction.md) | Next:[The Search](03-the-search.md)
+Previous: [Introduction](01-introduction.md) | Next: [The Search](03-the-search.md)

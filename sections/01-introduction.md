@@ -8,4 +8,4 @@ If you have any comments or suggestions, please drop me a note by sending an ema
 
 ---
 
-Previous: [README](../README.md) | Next: [Introduction](01-introduction.md)
+Previous: [README](../README.md) | Next: [The Resume](02-the-resume.md)
