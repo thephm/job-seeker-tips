@@ -41,3 +41,7 @@
 - When and why did you establish these goals? 
 - How are you preparing yourself to achieve them? 
 - Why did you leave your last assignment?
+
+---
+
+Previous: [Examples of What Not to Do](09-examples-of-what-not-to-do.md) 
