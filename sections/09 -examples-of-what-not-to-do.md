@@ -63,3 +63,7 @@ ps...Junior Software Test Engineers (Jobs #2105)
 ### Remember to “accept all changes”
 
 Ensuring all changes are accepted and change tracking is turned off if you use Microsoft Word. I have seen some interesting stuff over the years.
+
+---
+
+Previous: [The Offer](07-the-offer.md) | Next: [Example Interview Questions](10-example-interview-questions.md)

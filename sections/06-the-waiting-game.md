@@ -37,3 +37,7 @@ Within an hour he sent me an e-mail asking to call him on his cell. I waited for
 When I started working at the company, I quickly realized that Bob was not very organized and that my follow-up was very important!
 
 This example is not the norm but it does show that follow-up can pay off. Keep in mind that your mileage may vary. 
+
+---
+
+Previous: [The Interview](sections/05-the-interview.md) | Next: [The Rejection](sections/06-the-rejection.md)

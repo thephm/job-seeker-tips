@@ -52,3 +52,6 @@ Have fun during the interview!
 
 Often the interviewer will let you know what the next steps are. If not, just ask them what their timeframe is to close the position and what the typical next steps are. Their answer or lack thereof 
 
+---
+
+Previous: [The Interview](05-the-interview.md) | Next: [The Waiting Game](06-the-waiting-game.md)

@@ -32,3 +32,7 @@ The worst thing you can do is sit back go into obscurity once you have a new job
 > “a network is something you have not something you do”.
 
 Best of luck!
+
+---
+
+Previous: [The Rejection](07-the-rejection.md) | Next: [Examples of What Not to Do](09-examples-of-what-not-to-do.md)

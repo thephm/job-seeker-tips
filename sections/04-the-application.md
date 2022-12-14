@@ -67,3 +67,7 @@ Your attitude and tone are very important. Answer all questions positively and e
 I have been hit by layoffs a couple of times. When interviewing for positions after being laid off, the interviewers would sometimes say they are “sorry” to hear that I was laid off. I quickly let them know that it is actually a positive experience since I get to look at other opportunities and expand my network. That approach seemed to work well. 
 
 Never bad mouth a previous employer, manager, co-worker regardless of how you exited the company. Even when asked to describe difficult situations make sure that you end with a positive spin or outcome from the experience
+
+---
+
+Previous: [The Application](03-the-application.md) | Next:[The Interview](05-the-interview.md)

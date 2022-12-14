@@ -58,3 +58,7 @@ Interviewers can tell when you’re being sincere. Pick a real weakness but put 
 If you can, try to apply via a warm referral. To do this you will need to know someone on the inside. In some cases this could be an employee or it could be a supplier to the company or a customer of the company.
 
 Many people think they cannot do this because they don’t have a network. Everyone has a network, just some have larger networks than others. You really don’t need to know that many people. If you find a target company that you are interested in, use tools like LinkedIn or Facebook to find a connection to someone in the company. 
+
+---
+
+Back: [The Resume](2-the-resume.md) | Next:[The Application](03-the-application.md)

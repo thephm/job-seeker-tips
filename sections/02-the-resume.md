@@ -4,7 +4,7 @@ Your resume is a reflection of you and you need to be comfortable with it. Take 
 
 ### Some general tips
 
-- Keep the resume relatively short. It should be 2 or 3 pages in length
+- Keep the resume relatively short. If you can fit it on 1 page great, 2 is ok, 3 becomes a bit long
 - Make your resume easy to read and pleasing to look at. If it's cluttered and hard to read it gives the impression that you cannot communicate effectively. Include white space to make it more pleasing to read.
 - Make sure there are no spelling mistakes. I have seen about 25% of resumes contain spelling or grammatical errors. This is unacceptable.
 - If you submit a Microsoft Word file, make sure that it is not zoomed to 150% or 50%
@@ -34,9 +34,9 @@ Providing a list of technical skills and a list of companies where you worked wi
 Don't just provide a link to your Web site
 Providing a link to your personal Web site where your resume is located gives the impression that you do not have the time to send your resume. At least in the high-tech industry, most people have a personal Web site so this will not impress the hiring manager.
 
-On the other hand, if you are in media design or GUI development then you should include links to your online portfolio inside your resume or cover letter. For software developers this could include links to object models or sample source code. This is based on the assumption that you have the legal rights to show the material.
+On the other hand, if you are in media design or app development, include links to your online portfolio inside your resume or cover letter. For software developers this could include links to object models or sample source code. This is based on the assumption that you have the legal rights to show the material.
 
-I have seen some candidates bring in confidential and proprietary documentation from a previous supplier. Those were very short interviews. Another approach is to show publicly available marketing material on projects or products you have worked on.
+I have seen some candidates bring in confidential and proprietary documentation from a previous supplier. Those were very short interviews. Another approach is to show publicly available marketing material on projects or products that you worked on.
 Be careful about personal photos and the interests shown on your Web site or blog. These may actually reduce your chance of getting the interview if the hiring manager actually has the time to visit your Web site. On the other hand, being transparent can be a plus.
 
 Know your resume and take inventory
@@ -45,3 +45,7 @@ You need to really know what is written in your resume. Most often a resume is u
 Take the time to read and re-read your resume. After doing this, take an inventory of your skills and experience. Many companies will ask you to complete a profile on their recruiting system and ask specifically for your top skills and the number of years of experience in each. Having gone through the exercise and reflection will make sure you are ready.
 
 Make sure that you can answer a question about any item on your resume or on any technical skill you list.
+
+---
+
+Back: [Introduction](1-introduction.md) | Next:[The Search](03-the-search.md)

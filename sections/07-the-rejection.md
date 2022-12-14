@@ -9,3 +9,7 @@ If the company does provide feedback to you, thank them for taking the time to p
 ### The informal reference check that you’ll never know about
 
 Many times when you apply to a position, the external or internal recruiter, the HR person, or the hiring manager will look at your resume and try to think of someone who may already know you. Although you provide formal references, these people will sometimes make phone calls or send emails to do an informal inquiry about you
+
+---
+
+Previous: [The Waiting Game](06-the-waiting-game.md) | Next: [The Offer](07-the-offer.md)
