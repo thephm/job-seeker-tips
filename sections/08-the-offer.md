@@ -10,12 +10,9 @@ I have seen a few cases where, in a hot market, people have received an offer an
 
 I recognize that it is difficult to get the timing right and have all of the offers coming in at the same time. But, if you applied for and accept a job, that means it was a good position and the pay was right otherwise you wouldn’t have accepted it in the first place.
 
-Here’s my personal experience ... 
+Here’s a very old example from my personal experience ... 
 
-A few years ago I received an offer from a company and the moment I got back home from faxing in my acceptance the phone rang. The call was from an internal recruiter at another company with a verbal offer that was $10K higher than the one I just accepted. The company location was also 30 minutes closer to my home than the one I accepted. The recruiter tried to persuade me to call back the other company. I made it clear that I was sticking with my decision and ended up really enjoying the job.
-Once you accept an offer, keep your word and take the job.
-
-with a verbal offer that was $10K higher than the one I just accepted. The company location was also 30 minutes closer to my home than the one I accepted. The recruiter tried to persuade me to call back the other company. I made it clear that I was sticking with my decision and ended up really enjoying the job.
+Many years ago I received an offer from a company and the moment I got back home from faxing in my acceptance (yes, I know, fax!) the phone rang. The call was from an internal recruiter at another company with a verbal offer that was $10K higher than the one I just accepted. The company location was 30 minutes closer to my home than the one I accepted. The recruiter tried to persuade me to call back the other company. I made it clear that I was sticking with my decision and ended up really enjoying the job.
 
 Once you accept an offer, keep your word and take the job.
 
