@@ -10,7 +10,7 @@ Take care when following up on a job application. Timing is important when job s
 
 Here are some tips on followup:
 
-- If you get an interview, ask the hiring manager or interviewer(s) for their business card. If they give you a business card, it leaves the door open for you to contact them later.
+- If you get a live interview, ask the hiring manager or interviewer(s) for their business card. If they give you a business card, it leaves the door open for you to contact them later. If it's a virtual interview, ask for their email address.
 - Try to get your person on the inside to do the follow up for you if they were the ones that passed along your resume. 
 
 This person will be able to find the status of the hiring and learn a bit more about where you sit in respect to the opening. They can also help to let you know if the person has been busy on a project, away on a business trip, off sick, or simply isn’t interested. All of the above is useful information.
