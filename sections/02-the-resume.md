@@ -10,7 +10,7 @@ Your resume is a reflection of you and you need to be comfortable with it. Take 
 - If you submit a Microsoft Word file, make sure that it is not zoomed to 150% or 50%
 - Have a text version and a PDF version of your resume on hand in case you are asked for one
 - In Microsoft Word, go into “File” then “Properties” and make sure your name is in there and not someone else’s!
-- Name your resume file as follows: firstname_lastname.doc and not "resume.doc" or "firstname.doc". For example “Bernie Jansen.doc”
+- Name your resume file as follows: "Firstname Lastname.doc" and not "Resume.doc" or "Firstname.doc". For example “SpongeBob Squarepants.doc”
 - Be careful in the use of “I have knowledge of” since it usually means that you have no experience but you realize that it is important. If this is the case, it probably doesn't belong on your resume.
 
 ### The first page is the most important
