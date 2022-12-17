@@ -14,8 +14,8 @@ A collection of tips on finding a job. Nothing more, nothing less. Open to comme
 6. [The Waiting Game](sections/06-the-waiting-game.md)
 7. [The Rejection](sections/07-the-rejection.md)
 8. [The Offer](sections/08-the-offer.md)
-9. [Appendix A - Examples of what not to do](sections/10-examples-of-what-not-to-do.md)
-10. [Appendix B - Example interview questions](sections/11-example-interview-questions.md)
+9. [Appendix A - Examples of what not to do](sections/09-examples-of-what-not-to-do.md)
+10. [Appendix B - Example interview questions](sections/10-example-interview-questions.md)
 
 ## Licensing
 
