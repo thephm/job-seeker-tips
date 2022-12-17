@@ -4,7 +4,7 @@ CONGRATS you got an interview! The following is a number of tips that I’ve rec
 
 ### Dress the part
 
-Try to figure out the company culture and dress accordingly. I used to dress too casual for job interviews and then I went to the other extremen and started wearing a suit. I've since gone to the middle ground, business casual. It’s amazing the difference in reaction from the interviewers and sometimes it even makes you feel better when you’re dressed well. If you don't own something sharp, borrow from a friend! Wearing something nice further enforces that you're serious about the company and the position. Thanks to Ken for this tip.
+Try to figure out the company culture and dress accordingly. I used to dress too casual for job interviews and then I went to the other extreme and started wearing a suit. I've since gone to the middle ground, business casual. It’s amazing the difference in reaction from the interviewers and sometimes it even makes you feel better when you’re dressed well. If you don't own something sharp, borrow from a friend! Wearing something nice further enforces that you're serious about the company and the position. Thanks to Ken for this tip.
 
 ### Arrive on time
 
