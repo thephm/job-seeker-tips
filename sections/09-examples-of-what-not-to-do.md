@@ -1,4 +1,4 @@
-## Appendix A : Examples of What Not To Do
+## Appendix A : Examples of what not to do
 
 The following section provides some real-world examples of what not to do when applying for a job. These are from applications I have reviewed over the past many years. Of course all private information has been removed.
 
