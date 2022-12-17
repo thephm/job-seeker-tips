@@ -1,4 +1,4 @@
-## Example interview questions
+## Appendix B: Example interview questions
 
 - What interests you about our product or service? 
 - In what kind of work environment are you most comfortable? 
